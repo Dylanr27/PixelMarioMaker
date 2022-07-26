@@ -1,4 +1,4 @@
-const colorArray = ["red", "blue", "brown", "yellow", "tan","black", "white"]
+const colorArray = ["red", "blue", "brown", "yellow", "tan","black", "#becad1"]
 let tiles = document.getElementsByClassName("tile");
 let j = 0;
 let tileIndex = 0;
